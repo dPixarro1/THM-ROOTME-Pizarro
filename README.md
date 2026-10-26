@@ -75,6 +75,7 @@ cat /var/www/user.txt
 cat /root/root.txt
 ```
 Ambas flags fueron obtenidas exitosamente (no se incluyen completas en este documento por buenas prácticas de confidencialidad).
+
 ![evidencia](evidencias/evidencia20.png)
 ## 5. Vulnerabilidades encontradas e impacto
 
